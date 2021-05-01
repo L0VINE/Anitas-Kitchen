@@ -1,0 +1,236 @@
+body{
+    padding: 0%;
+    margin: 0;
+    
+}
+header{
+    background-image: url("./assets/backgrounds/landing.jpg");
+    height: 100vh;
+    font-size: 30px;
+    text-transform: capitalize;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+  .bg2{
+      background-image:url(/assets/backgrounds/foodsBg.jpg);
+      background-size: cover;
+      align-items: center;
+      padding: 80px;
+      /* height: 300px; */
+  }
+  .bg3{
+      background-image: url(/assets/backgrounds/subscribe.jpg);
+      height: 300px;
+  }
+  footer{
+      background-color: #F15A29;
+      height: 300px;
+  }
+  .txt1{
+display: flex;
+/* flex-direction: column; */
+  }
+  /* Changes */
+  .happy-sec{
+    display: flex;
+    flex-wrap: wrap;
+    /* max-width: 100%;  */
+  }
+  .happy {
+    text-align: center;
+    /* flex-basis: 150px; */
+    flex-grow: 1;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 500;
+    color: #fff;
+  }
+  #break{
+      background-image: url(./assets/foodtop/breakfast.jpg);
+      background-size: cover;
+      align-items: center;
+  }
+  #lunch{
+    background-image: url(./assets/foodtop/lunch.jpg);
+    background-size: cover;
+    align-items: center;
+}
+#dinner{
+    background-image: url(./assets/foodtop/dinner2.jpg);
+    background-size: cover;
+    align-items: center;
+}
+.prt{
+background-color: orangered;
+padding: 10px 0;
+}
+.hap{
+    color: orangered;
+    padding: 10px 0;
+    }
+    .fast{
+        text-align: center;
+        display: flex;
+        width: 100%;
+        align-items: center;
+    }
+    .buttons{
+        background-color: rgb(180, 180, 180);
+        width: 25%;
+        font-size: 24px;
+        border: 1px solid #c4c4c4;
+    }
+    .buttons:hover{
+        background: white;
+        color: orangered;
+        border: none;
+    }
+    .ditict{
+      background: white;
+    }
+    .images{
+        color: orangered;
+        font-size: 20px;
+        text-align: center;
+        display: flex;
+        width: 100%;
+        font-weight: bold;
+        margin: 25px 15%;
+    }
+    .img{
+        padding: 20px;
+    }
+
+    .big-cont{
+         padding: 50px 5em; 
+        
+    }
+
+
+.food{
+    box-shadow: 9px 5px 40px -9px rgba(0,0,0,0.59);
+    padding: 20px;
+    width: 30%;
+    
+}
+.smoothie{
+    display: flex; 
+    box-shadow: 9px 5px 40px -9px rgba(0,0,0,0.59);
+    padding: 20px;
+    width: 30%;  
+}
+.fad, .drinks{
+    padding: 20px;
+    display: flex;
+    
+}
+
+.fad-content{
+    width: 25%;
+    padding-left: 70px;
+}
+.fad-content{
+    width: 25%;
+    padding-right: 70px;
+}
+.view{
+    border: 1.5px solid orangered;
+    width: 170px;
+    height: 28px;
+    padding-left: 30px;
+    margin-top: 30px;
+    color: orangered;
+    font-weight: 400;
+    font-size: 18px;
+    padding-top:8px ;
+}
+.cudt{
+    color: orangered;
+}
+
+.reviews{
+    box-shadow: 9px 5px 40px -9px rgba(0,0,0,0.59);
+    text-align: center;
+    display: flex;
+    padding: 20px;
+    width: 80%;
+
+}
+
+.left-reviews{
+    line-height: 30px;
+    font-size: 17px;
+    width: 60%;
+ padding: 30px;
+}
+
+.right-rev{
+ width: 40%;
+ line-height: 30px;
+ font-size: 17px;   
+ padding: 30px;
+ border-left: 1px solid #c4c4c4 ;
+}
+
+.rev-container{
+    padding: 40px 300px;
+    
+}
+.next{
+    color: #F15A29;
+}
+.icon1{
+    margin-bottom: 5px;
+}
+.bg3{
+    background-image: url("assets/backgrounds/subscribe.jpg");
+    height: 300px;
+    text-align: center;
+    color: white;
+}
+.reach{
+    display: flex;
+    justify-content: center;
+}
+#mail{
+  height: 40px;
+  width: 300px;
+  border-radius: 7px;
+  opacity: 0.5;
+ margin-right: 50px;
+ text-align: center;
+}
+button{
+    background-color: orangered;
+    border-radius: 7px;
+    height: 40px;
+    width: 200px;
+}
+footer{
+    background-color: #F15A29;
+     height: 350px;
+    color: white;
+    text-align: center;
+}
+.ft1{
+    display: flex;
+    justify-content: center;
+padding-top: 50px;
+}
+#menust{
+    font-weight: 400px;
+    padding-left: 30px;
+}
+.other a{
+    text-decoration: none;
+    color: white;
+    padding-top: 50px;
+}
+.social{
+    padding-bottom: 50px;
+}
