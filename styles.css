@@ -56,12 +56,12 @@ display: flex;
       align-items: center;
   }
   #lunch{
-    background-image: url("./assets/foodtop/lunch.jpg");
+    background-image: url("./assets/foodtop/dinner2.jpg");
     background-size: cover;
     align-items: center;
 }
 #dinner{
-    background-image: url("./assets/foodtop/dinner2.jpg");
+    background-image: url("./assets/foodtop/dinner.jpg");
     background-size: cover;
     align-items: center;
 }
