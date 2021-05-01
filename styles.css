@@ -17,14 +17,14 @@ header{
     padding-bottom: 50px;
 }
   .bg2{
-      background-image:url(/assets/backgrounds/foodsBg.jpg);
+      background-image:url("./assets/backgrounds/foodsBg.jpg");
       background-size: cover;
       align-items: center;
       padding: 80px;
       /* height: 300px; */
   }
   .bg3{
-      background-image: url(/assets/backgrounds/subscribe.jpg);
+      background-image: url("./assets/backgrounds/subscribe.jpg");
       height: 300px;
   }
   footer{
@@ -51,17 +51,17 @@ display: flex;
     color: #fff;
   }
   #break{
-      background-image: url(./assets/foodtop/breakfast.jpg);
+      background-image: url("./assets/foodtop/breakfast.jpg");
       background-size: cover;
       align-items: center;
   }
   #lunch{
-    background-image: url(./assets/foodtop/lunch.jpg);
+    background-image: url("./assets/foodtop/lunch.jpg");
     background-size: cover;
     align-items: center;
 }
 #dinner{
-    background-image: url(./assets/foodtop/dinner2.jpg);
+    background-image: url("/assets/foodtop/dinner2.jpg");
     background-size: cover;
     align-items: center;
 }
